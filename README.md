@@ -5,8 +5,20 @@ In this repository we built image classifier from scratch(using only numpy modul
 ## About the datasest:
 'train_catvnoncat.h5' and 'test_catvnoncat.h5' contains matrix in which each column represents the image array of a image.In train dataset we have 209 columns which mean we have 209 images in train dataset and in test dataset we have 50 images.
 
+## Dependencies used:-
 
-## About the Python files
+### Time
+    for dealing with date and time. 
+### Numpy
+    for mathmatical algebric calculation.
+### H5py
+    for accessing the h5 data.
+### Matplotlib
+    for visualizing of the data 
+### Scipy
+    for scientific calculation.
+
+## About the Python Notebooks
   
   ### Image.Py
       Image.py contains the functions needed for creating image classifier Following is the list of fuctions and the working of the          functions:
