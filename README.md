@@ -1,6 +1,6 @@
 # Image-Classifier-from-scratch-with-Variance-Correction
  
-In this repository we built image classifier from scratch(using only numpy module) which is able to classify cat and dog images and apply L2 regularization and early stopping to correct the variance of the model.
+Built image classifier from scratch(using only numpy module) which is able to classify cat and dog images and apply L2 regularization and early stopping to reduce the variance of the model.
 
 ## About the datasest:
 'train_catvnoncat.h5' and 'test_catvnoncat.h5' contains matrix in which each column represents the image array of a image.In train dataset we have 209 columns which mean we have 209 images in train dataset and in test dataset we have 50 images.
