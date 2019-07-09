@@ -14,7 +14,7 @@ Built image classifier from scratch(using only numpy module) which is able to cl
 ### H5py
     for accessing the h5 data.
 ### Matplotlib
-    for visualizing of the data 
+    for visualizing the data 
 ### Scipy
     for scientific calculation.
 
